@@ -79,7 +79,7 @@ python expense_tracker.py
 
 ### Output Screenshot
 ```
-
+Screenshot 2026-06-16 110820.png
 ```
 ### Learning Outcome
 
